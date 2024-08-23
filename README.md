@@ -11,6 +11,8 @@ sudo apt-get install libttspico-utils -y
 sudo apt-get install imagemagick -y
 sudo apt-get install ffmpeg -y
 
+git clone https://github.com/vishala5000/Shorts-maker-tts.git
+
 AUTO METHOD:
 chmod +x Install.sh
 ./Install.sh
